@@ -1,0 +1,1 @@
+let lado = parseFloat(prompt(""))
